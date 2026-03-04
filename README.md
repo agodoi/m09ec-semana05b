@@ -20,5 +20,20 @@ Ao final desta prática/teórica, vocês deverão ser capazes de:
 * O quarteto deve seguir este relatório e responder as perguntas no Google Forms.
 * No final, terá uma apresentação do grupo para os demais da sala.
 
-## 3. 
+## 3. Fundamentação teórica (parte conceitual)
 
+A subcamada MAC (Medium Access Control) pertence à camada de ENLACE de dados do modelo OSI.
+
+Ela é responsável por:
+
+identificar dispositivos na rede local
+
+controlar o acesso ao meio físico
+
+encapsular os dados em quadros Ethernet
+
+permitir que switches e roteadores identifiquem os dispositivos conectados
+
+Cada interface de rede possui um endereço MAC único, composto por 48 bits, normalmente representado em formato hexadecimal.
+
+Exemplo:
