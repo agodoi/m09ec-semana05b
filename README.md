@@ -61,11 +61,8 @@ Exemplo: ``` 00:1A:2B:3C:4D:5E```
 Os três primeiros pares de hexadecimais (ex: 00:E0:4C) no endereço MAC do seu dispositivo (que é da forma XX:XX:XX:YY:YY:YY) informam quem fabricou o controlador de rede. Isso para uma investigação forence importa bastante. Use esse link para confirmar quem é o seu fabricante: [https://macvendors.com](https://macvendors.com)
 
 
-## RESPOSTA DA PARTE 1 - Descobrindo o endereço MAC do computador
+## RESPONDA A PARTE 1 - Descobrindo o endereço MAC do computador [https://forms.gle/4HL77ReE4azrnPgZ7](https://forms.gle/4HL77ReE4azrnPgZ7)
 
-Acesse esse link e responda as questões. Depois volte para cá.
-
-[https://forms.gle/4HL77ReE4azrnPgZ7](https://forms.gle/4HL77ReE4azrnPgZ7)
 
 # PARTE 2 - Fundamento Teórico: Observando a relação entre IP e MAC
 
@@ -80,6 +77,6 @@ Exemplo de resultado:
 
 **(2.2)** Caso não esteja enxegando IPs que comecem com ```192.168```, dê um PING nos computadores do seu grupo e execute novamente o **(2.2)**. Certifique-se que os hosts do seu grupo estejam conectados no roteador do grupo.
 
-## RESPOSTA DA PARTE 2 - Observando a relação entre IP e MAC
+## RESPONDA A PARTE 2 - Observando a relação entre IP e MAC [https://forms.gle/4HL77ReE4azrnPgZ7](https://forms.gle/4HL77ReE4azrnPgZ7)
 
 
