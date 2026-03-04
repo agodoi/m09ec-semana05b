@@ -65,7 +65,7 @@ Os três primeiros pares de hexadecimais (ex: 00:E0:4C) no endereço MAC do seu 
 
 Acesse esse link e responda as questões. Depois volte para cá.
 
-(https://forms.gle/4HL77ReE4azrnPgZ7)[https://forms.gle/4HL77ReE4azrnPgZ7]
+[https://forms.gle/4HL77ReE4azrnPgZ7](https://forms.gle/4HL77ReE4azrnPgZ7)
 
 # PARTE 2 - Fundamento Teórico: Observando a relação entre IP e MAC
 
