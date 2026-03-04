@@ -39,7 +39,7 @@ Ao final desta prática/teórica, vocês deverão ser capazes de:
 
 * Atenção, este roteador ainda está sem acesso à Internet.
 
-## PARTE 1 - Fundamentação teórica: Entendendo o Endereço MAC
+# PARTE 1 - Fundamentação teórica: Entendendo o Endereço MAC
 
 A subcamada MAC (Medium Access Control) pertence à camada de ENLACE de dados do modelo OSI.
 
@@ -78,5 +78,14 @@ Exemplo de resultado:
 **(2.2)** Caso não esteja enxegando IPs que comecem com ```192.168```, dê um PING nos computadores do seu grupo e execute novamente o **(2.2)**. Certifique-se que os hosts do seu grupo estejam conectados no roteador do grupo.
 
 ## RESPONDA A PARTE 2 - Observando a relação entre IP e MAC [https://forms.gle/4HL77ReE4azrnPgZ7](https://forms.gle/4HL77ReE4azrnPgZ7)
+
+# PARTE 3 - Fundamento Teórico: Identificando dispositivos conectados ao roteador
+
+* Todo roteador possui uma tabela de hosts conectados nele e o respectivo endereço MAC;
+* Acesso endereço do seu roteador usando o seu navegador preferido;
+* Deixe os campos usuário e senha em branco e confirme.
+* 
+
+
 
 
