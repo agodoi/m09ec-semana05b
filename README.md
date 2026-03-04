@@ -61,7 +61,7 @@ Exemplo: ``` 00:1A:2B:3C:4D:5E```
 Os três primeiros pares de hexadecimais (ex: 00:E0:4C) no endereço MAC do seu dispositivo (que é da forma XX:XX:XX:YY:YY:YY) informam quem fabricou o controlador de rede. Isso para uma investigação forence importa bastante. Use esse link para confirmar quem é o seu fabricante: [https://macvendors.com](https://macvendors.com)
 
 
-## RESPONDA A PARTE 1 - Descobrindo o endereço MAC do computador [https://forms.gle/4HL77ReE4azrnPgZ7](https://forms.gle/4HL77ReE4azrnPgZ7)
+## RESPONDA A PARTE 1 - Descobrindo o endereço MAC do computador [FORMS AQUI](https://forms.gle/4HL77ReE4azrnPgZ7)
 
 
 # PARTE 2 - Fundamento Teórico: Observando a relação entre IP e MAC
@@ -77,7 +77,7 @@ Exemplo de resultado:
 
 **(2.2)** Caso não esteja enxegando IPs que comecem com ```192.168```, dê um PING nos computadores do seu grupo e execute novamente o **(2.2)**. Certifique-se que os hosts do seu grupo estejam conectados no roteador do grupo.
 
-## RESPONDA A PARTE 2 - Observando a relação entre IP e MAC [https://forms.gle/4HL77ReE4azrnPgZ7](https://forms.gle/4HL77ReE4azrnPgZ7)
+## RESPONDA A PARTE 2 - Observando a relação entre IP e MAC [FORMS AQUI](https://forms.gle/4HL77ReE4azrnPgZ7)
 
 # PARTE 3 - Fundamento Teórico: Identificando dispositivos conectados ao roteador
 
@@ -86,7 +86,7 @@ Exemplo de resultado:
 * Deixe os campos usuário e senha em branco e confirme.
 * Seu desafio é encontrar a tela que mostra os hosts conectados. Dica: busque por QoS ou DHCP. Isso depende do modelo do roteador;
 
-## RESPONDA A PARTE 3 - Identificando dispositivos conectados ao roteador [https://forms.gle/4HL77ReE4azrnPgZ7](https://forms.gle/4HL77ReE4azrnPgZ7)
+## RESPONDA A PARTE 3 - Identificando dispositivos conectados ao roteador [FORMS AQUI](https://forms.gle/4HL77ReE4azrnPgZ7)
 
 # PARTE 4 - Fundamento Teórico: Filtragem de MAC no roteador
 
@@ -94,7 +94,7 @@ Exemplo de resultado:
 * Essa lista é bem útil quando você precisa bloquear totalmente um acesso de um host sem ter que se preocupar em mudar senha do roteador, ou esconder o SSID;
 * Mesmo que o computador plug um cabo Ethernet ou tenha a senha de acesse do SSID do roteador, esse bloqueio vai acontecer na camada mais baixa do modelo TCP/IP;
 
-## RESPONDA A PARTE 4 - Filtragem de MAC no roteador
+## RESPONDA A PARTE 4 - Filtragem de MAC no roteador [FORMS AQUI](https://forms.gle/4HL77ReE4azrnPgZ7)
 
 # PARTE 5 - Fundamento Teórico: Como clonar endereço MAC
 
