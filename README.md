@@ -17,7 +17,7 @@ Ao final desta prática/teórica, vocês deverão ser capazes de:
 * Formem duplas de 4;
 * Pegue o seu cabo de rede crimpado na semana 02;
 * Pegue o equipamentos com o prof;
-* O quarteto deve seguir este relatório e responder as perguntas no Google Forms.
+* O quarteto deve seguir este relatório e responder as perguntas no Google Forms;
 * No final, terá uma apresentação do grupo para os demais da sala.
 
 ## PREPARAÇÃO
@@ -102,5 +102,8 @@ Exemplo de resultado:
 * Esse processo é chamado de **MAC Spoofing**;
 * O hardware continua tendo o MAC original, mas o sistema passa a anunciar outro MAC na rede.
 * Esse site explica como: [https://technitium.com/tmac/](https://technitium.com/tmac/)
+* Por motivos óbvios, não vamos avançar deste ponto. Qualquer mudança de MAC do seu computador é de inteira responsabilidade sua.
+
+
 
 
