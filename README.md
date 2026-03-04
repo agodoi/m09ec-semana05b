@@ -58,7 +58,7 @@ Exemplo: ``` 00:1A:2B:3C:4D:5E```
 
 ### Curiosidade: 
 
-Os três primeiros pares de hexadecimais (ex: 00:E0:4C) no endereço MAC do seu dispositivo (que é da forma XX:XX:XX:YY:YY:YY) informam quem fabricou o controlador de rede. Isso para uma investigação forence importa bastante. Use esse link para confirmar quem é o seu fabricante: [[https://macvendors.com](https://macvendors.com)]
+Os três primeiros pares de hexadecimais (ex: 00:E0:4C) no endereço MAC do seu dispositivo (que é da forma XX:XX:XX:YY:YY:YY) informam quem fabricou o controlador de rede. Isso para uma investigação forence importa bastante. Use esse link para confirmar quem é o seu fabricante: [https://macvendors.com](https://macvendors.com)
 
 
 ## RESPOSTA DA PARTE 1 - Descobrindo o endereço MAC do computador
