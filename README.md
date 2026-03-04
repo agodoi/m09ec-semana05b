@@ -24,7 +24,7 @@ Ao final desta prática/teórica, vocês deverão ser capazes de:
 
 A subcamada MAC (Medium Access Control) pertence à camada de ENLACE de dados do modelo OSI.
 
-<img src="https://github.com/agodoi/m09ec-semana05b/blob/main/assets/modelo%20OSIvsTCP-IP.png" width="500">
+<img src="https://github.com/agodoi/m09ec-semana05b/blob/main/assets/modelo%20OSIvsTCP-IP.png" width="1000">
 
 
 Ela é responsável por:
