@@ -75,8 +75,8 @@ Os dispositivos da rede precisam descobrir o MAC correspondente a um IP. Isso é
 
 Exemplo de resultado:
 
-192.168.0.1   84-16-F9-11-22-33
-192.168.0.10  3C-22-FB-10-20-30
+192.168.0.1      84-16-F9-11-22-33
+192.168.0.10     3C-22-FB-10-20-30
 
 **(2.2)** Caso não esteja enxegando IPs que comecem com ```192.168```, dê um PING nos computadores do seu grupo e execute novamente o **(2.2)**. Certifique-se que os hosts do seu grupo estejam conectados no roteador do grupo.
 
