@@ -24,16 +24,22 @@ Ao final desta prática/teórica, vocês deverão ser capazes de:
 
 A subcamada MAC (Medium Access Control) pertence à camada de ENLACE de dados do modelo OSI.
 
+<img src="https://github.com/agodoi/m09ec-semana05b/blob/main/assets/modelo%20OSIvsTCP-IP.png" width="500">
+
+
 Ela é responsável por:
 
-identificar dispositivos na rede local
+* Identificar dispositivos na rede local;
+* Controlar o acesso ao meio físico;
+* Encapsular os dados em quadros Ethernet;
+* Permitir que switches e roteadores identifiquem os dispositivos conectados;
+* Cada interface de rede possui um endereço MAC único, composto por 48 bits, normalmente representado em formato hexadecimal.
 
-controlar o acesso ao meio físico
+Exemplo: ``` 00:1A:2B:3C:4D:5E```
 
-encapsular os dados em quadros Ethernet
+### Curiosidade: 
 
-permitir que switches e roteadores identifiquem os dispositivos conectados
+Os três primeiros pares de hexadecimais (ex: 00:E0:4C) no endereço MAC do seu dispositivo (que é da forma XX:XX:XX:YY:YY:YY) informam quem fabricou o controlador de rede. Isso para uma investigação forence importa bastante.
 
-Cada interface de rede possui um endereço MAC único, composto por 48 bits, normalmente representado em formato hexadecimal.
 
-Exemplo:
+
