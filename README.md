@@ -24,6 +24,7 @@ Ao final desta prática/teórica, vocês deverão ser capazes de:
 
 * Conecte o roteador na tomada mais próxima do rack de equipamentos onde está o professor. Motivo: vamos ter que usar o seu cabo para conectar o roteador ao switch;
 * Cada grupo deve pesquisar e se conectar ao SSID de acordo com o rotador que você recebeu. As senhas são bem parecidas, logo, tome cuidado para não entrar no roteador errado:
+  
 | SSID     | Senha    |
 |----------|----------|
 | grupo1ec | grupo1ec |
