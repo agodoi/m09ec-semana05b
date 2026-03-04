@@ -22,8 +22,9 @@ Ao final desta prática/teórica, vocês deverão ser capazes de:
 
 ## PREPARAÇÃO
 
-* Conecte o roteador na tomada mais próxima do seu grupo;
-* Todos do grupo devem pesquisar o SSID combinado pelo professor. Todas as senhas são bem parecidas:
+* Conecte o roteador na tomada mais próxima do rack de equipamentos onde está o professor. Motivo: vamos ter que usar o seu cabo para conectar o roteador ao switch;
+* Cada grupo deve pesquisar e se conectar ao SSID de acordo com o rotador que você recebeu. As senhas são bem parecidas, logo, tome cuidado para não entrar no roteador errado:
+  
 |SSID | Senha |
 |grupo1ec | grupo1ec |
 |grupo2ec | grupo2ec |
@@ -34,11 +35,7 @@ Ao final desta prática/teórica, vocês deverão ser capazes de:
 |grupo7ec | grupo7ec |
 |grupo8ec | grupo8ec |
 
-
-
-
-
-
+* Atenção, este roteador ainda está sem acesso à Internet.
 
 ## PARTE 1 - Fundamentação teórica: Entendendo o Endereço MAC
 
