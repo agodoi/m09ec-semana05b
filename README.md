@@ -1,6 +1,6 @@
 # Apresentação dos conceitos envolvidos com a subcamada MAC (Medium Access Control)
 
-## 1. Objetivos da Aula
+## Objetivos da Aula
 
 Ao final desta prática/teórica, vocês deverão ser capazes de:
 
@@ -12,7 +12,7 @@ Ao final desta prática/teórica, vocês deverão ser capazes de:
 * Compreender limitações de segurança baseadas em MAC Filtering;
 * Bloquear o host daquele seu parente que deve dinheiro para a sua mãe/pai;
 
-## 2. Mecânica da Aula
+## Mecânica da Aula
 
 * Formem duplas de 4;
 * Pegue o seu cabo de rede crimpado na semana 02;
@@ -20,7 +20,27 @@ Ao final desta prática/teórica, vocês deverão ser capazes de:
 * O quarteto deve seguir este relatório e responder as perguntas no Google Forms.
 * No final, terá uma apresentação do grupo para os demais da sala.
 
-## 3. Fundamentação teórica (parte conceitual)
+## PREPARAÇÃO
+
+* Conecte o roteador na tomada mais próxima do seu grupo;
+* Todos do grupo devem pesquisar o SSID combinado pelo professor. Todas as senhas são bem parecidas:
+|SSID | Senha |
+|grupo1ec | grupo1ec |
+|grupo2ec | grupo2ec |
+|grupo3ec | grupo3ec |
+|grupo4ec | grupo4ec |
+|grupo5ec | grupo5ec |
+|grupo6ec | grupo6ec |
+|grupo7ec | grupo7ec |
+|grupo8ec | grupo8ec |
+
+
+
+
+
+
+
+## PARTE 1 - Fundamentação teórica: Entendendo o Endereço MAC
 
 A subcamada MAC (Medium Access Control) pertence à camada de ENLACE de dados do modelo OSI.
 
@@ -42,4 +62,32 @@ Exemplo: ``` 00:1A:2B:3C:4D:5E```
 Os três primeiros pares de hexadecimais (ex: 00:E0:4C) no endereço MAC do seu dispositivo (que é da forma XX:XX:XX:YY:YY:YY) informam quem fabricou o controlador de rede. Isso para uma investigação forence importa bastante.
 
 
+## RESPOSTA DA PARTE 1 - Descobrindo o endereço MAC do computador
+
+Acesse esse link e responda as questões. Depois volte para cá.
+
+(https://forms.gle/4HL77ReE4azrnPgZ7)[https://forms.gle/4HL77ReE4azrnPgZ7]
+
+# PARTE 2 - Fundamento Teórico: Observando a relação entre IP e MAC
+
+Os dispositivos da rede precisam descobrir o MAC correspondente a um IP. Isso é feito pelo protocolo ARP (Address Resolution Protocol).
+
+**(2.1)** Execute no terminal: ```arp -a``` ou ```ip neigh```
+
+Exemplo de resultado:
+
+192.168.0.1   84-16-F9-11-22-33
+192.168.0.10  3C-22-FB-10-20-30
+
+**(2.2)** Caso não esteja enxegando IPs que comecem com ```192.168```, dê um PING nos computadores do seu grupo e execute novamente o **(2.2)**. Certifique-se os hosts do seu grupo esteja conectado no roteador que combinamos.
+
+Análise
+
+Observe:
+
+o IP do gateway
+
+o MAC do roteador
+
+MAC de outros dispositivos na rede
 
