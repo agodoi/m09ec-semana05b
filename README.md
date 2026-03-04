@@ -95,3 +95,12 @@ Exemplo de resultado:
 * Mesmo que o computador plug um cabo Ethernet ou tenha a senha de acesse do SSID do roteador, esse bloqueio vai acontecer na camada mais baixa do modelo TCP/IP;
 
 # RESPONDA A PARTE 4 - Filtragem de MAC no roteador
+
+# PARTE 5 - Fundamento Teórico: Como clonar endereço MAC
+
+* O endereço MAC é gravado na placa de rede pelo fabricante, porém o sistema operacional pode alterar o endereço apresentado ao sistema e à rede;
+* Esse processo é chamado de **MAC Spoofing**;
+* O hardware continua tendo o MAC original, mas o sistema passa a anunciar outro MAC na rede.
+* Esse site explica como: [https://technitium.com/tmac/](https://technitium.com/tmac/)
+
+
