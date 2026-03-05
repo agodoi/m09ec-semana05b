@@ -16,7 +16,7 @@ Ao final desta prática/teórica, vocês deverão ser capazes de:
 
 * Formem duplas de 4;
 * Pegue o seu cabo de rede crimpado na semana 02;
-* Pegue o equipamentos com o prof;
+* Pegue os equipamentos com o prof;
 * O quarteto deve seguir este relatório e responder as perguntas no Google Forms;
 * No final, terá uma apresentação do grupo para os demais da sala.
 
