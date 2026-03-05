@@ -36,6 +36,9 @@ Ao final desta prática/teórica, vocês deverão ser capazes de:
 | grupo7ec | grupo7ec |
 | grupo8ec | grupo8ec |
 
+<img src="https://github.com/agodoi/m09ec-semana05b/blob/main/assets/semana05b-fig2.png" width="1000">
+
+
 
 * Atenção, este roteador ainda está sem acesso à Internet.
 
