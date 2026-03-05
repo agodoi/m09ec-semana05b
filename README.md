@@ -23,6 +23,7 @@ Ao final desta prática/teórica, vocês deverão ser capazes de:
 ## PREPARAÇÃO
 
 * Conecte o roteador na tomada mais próxima do rack de equipamentos onde está o professor. Motivo: vamos ter que usar o seu cabo para conectar o roteador ao switch;
+* Atenção, este roteador ainda está sem acesso à Internet;
 * Cada grupo deve pesquisar e se conectar ao SSID de acordo com o rotador que você recebeu. As senhas são bem parecidas, logo, tome cuidado para não entrar no roteador errado:
   
 | SSID     | Senha    |
@@ -36,11 +37,12 @@ Ao final desta prática/teórica, vocês deverão ser capazes de:
 | grupo7ec | grupo7ec |
 | grupo8ec | grupo8ec |
 
+## ARQUITETURA DA AULA
+
 <img src="https://github.com/agodoi/m09ec-semana05b/blob/main/assets/semana05b-fig2.png" width="1000">
 
 
 
-* Atenção, este roteador ainda está sem acesso à Internet.
 
 # PARTE 1 - Fundamentação teórica: Entendendo o Endereço MAC
 
