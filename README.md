@@ -23,9 +23,10 @@ Ao final desta prática/teórica, vocês deverão ser capazes de:
 ## PREPARAÇÃO
 
 * Conecte o roteador na tomada mais próxima do rack de equipamentos onde está o professor. Motivo: vamos ter que usar o seu cabo para conectar o roteador ao switch;
-* Atenção, este roteador ainda está sem acesso à Internet e possui a rede padrão ```192.168.0.1```. Precisamos mudar este IP para o respectivo valor da tabela;
+* Atenção, este roteador ainda está sem acesso à Internet e possui a rede padrão ```192.168.X.1``` conforme a tabela abaixo;
 * Para acessar a parte administrativa do roteador, não precisa de usuário e nem senha. Basta digitar o IP de Rede no seu navegador;
 * Cada grupo deve pesquisar a tela do roteador e se conectar ao SSID de acordo com o rotador que você recebeu. As senhas são bem parecidas, logo, tome cuidado para não entrar no roteador errado:
+* SOMENTE UM USUÁRIO PODE ACESSAR A TELA ADMIN DO ROTEADOR;
   
 | IP de Rede   | SSID     | Senha    |
 |---------------|----------|----------|
