@@ -23,19 +23,20 @@ Ao final desta prática/teórica, vocês deverão ser capazes de:
 ## PREPARAÇÃO
 
 * Conecte o roteador na tomada mais próxima do rack de equipamentos onde está o professor. Motivo: vamos ter que usar o seu cabo para conectar o roteador ao switch;
-* Atenção, este roteador ainda está sem acesso à Internet;
-* Cada grupo deve pesquisar e se conectar ao SSID de acordo com o rotador que você recebeu. As senhas são bem parecidas, logo, tome cuidado para não entrar no roteador errado:
+* Atenção, este roteador ainda está sem acesso à Internet e possui a rede padrão ```192.168.0.1```. Precisamos mudar este IP para o respectivo valor da tabela;
+* Para acessar a parte administrativa do roteador, não precisa de usuário e nem senha. Basta digitar o IP de Rede no seu navegador;
+* Cada grupo deve pesquisar a tela do roteador e se conectar ao SSID de acordo com o rotador que você recebeu. As senhas são bem parecidas, logo, tome cuidado para não entrar no roteador errado:
   
-| SSID     | Senha    |
-|----------|----------|
-| grupo1ec | grupo1ec |
-| grupo2ec | grupo2ec |
-| grupo3ec | grupo3ec |
-| grupo4ec | grupo4ec |
-| grupo5ec | grupo5ec |
-| grupo6ec | grupo6ec |
-| grupo7ec | grupo7ec |
-| grupo8ec | grupo8ec |
+| IP de Rede   | SSID     | Senha    |
+|---------------|----------|----------|
+| 192.168.1.1   | grupo1ec | grupo1ec |
+| 192.168.2.1   | grupo2ec | grupo2ec |
+| 192.168.3.1   | grupo3ec | grupo3ec |
+| 192.168.4.1   | grupo4ec | grupo4ec |
+| 192.168.5.1   | grupo5ec | grupo5ec |
+| 192.168.6.1   | grupo6ec | grupo6ec |
+| 192.168.7.1   | grupo7ec | grupo7ec |
+| 192.168.8.1   | grupo8ec | grupo8ec |
 
 ## ARQUITETURA DA AULA
 
